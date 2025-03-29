@@ -1,4 +1,3 @@
-// services/recommendationService.js
 const Course = require('../models/Course');
 
 async function getRecommendations(courseId) {
